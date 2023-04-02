@@ -1,0 +1,2 @@
+require("rpl")
+print("Hello")
