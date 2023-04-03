@@ -1,2 +1,2 @@
 require("rpl.remap")
-print("Hello from rpl")
+require("rpl.set")

@@ -1,2 +1,1 @@
 require("rpl")
-print("Hello")
