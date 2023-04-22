@@ -23,7 +23,7 @@
 | Ctrl + h | Signature help |
 
 ### Telescope
-A complete list of all the default mappings from telescope can be found (here)[https://github.com/nvim-telescope/telescope.nvim#default-mappings] or using the command :help telescope.defaults.mappings
+A complete list of all the default mappings from telescope can be found [here](https://github.com/nvim-telescope/telescope.nvim#default-mappings) or using the command :help telescope.defaults.mappings
 
 | Command | Definition |
 | ------- | ---------- | 
