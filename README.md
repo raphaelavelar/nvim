@@ -3,6 +3,7 @@
 ## Key mapping
 ### CMP
 | Command | Definition |
+| ------- | ---------- | 
 | Ctrl + p | Go to next item |
 | Ctrl + n | Go to previous item |
 | Tab | Confirm selection |
@@ -10,6 +11,7 @@
 
 ### LSP
 | Command | Definition |
+| ------- | ---------- | 
 | gd | Open definition |
 | h | Hover |
 | od | Open float diagnostic |
@@ -24,6 +26,7 @@
 A complete list of all the default mappings from telescope can be found (here)[https://github.com/nvim-telescope/telescope.nvim#default-mappings] or using the command :help telescope.defaults.mappings
 
 | Command | Definition |
+| ------- | ---------- | 
 | ff | Find files |
 | gf | Find git files |
 | gc | Display git commits |
