@@ -13,22 +13,25 @@
 | Command | Definition |
 | ------- | ---------- | 
 | gd | Open definition |
+| f | Format |
 | h | Hover |
 | od | Open float diagnostic |
 | [d | Go to next diagnostic |
 | ]d | Go to previous diagnostic |
 | c | Open code actions |
-| r | Open references |
 | rr | Rename |
 | Ctrl + h | Signature help |
 
 ### Telescope
-A complete list of all the default mappings from telescope can be found [here](https://github.com/nvim-telescope/telescope.nvim#default-mappings) or using the command :help telescope.defaults.mappings
+A complete list of all the default mappings from telescope can be found [here](https://github.com/nvim-telescope/telescope.nvim#default-mappings) or using the command :help telescope.defaults.mappings  
+**Live grep requires [ripgrep](https://github.com/BurntSushi/ripgrep#installation). Make sure to have it installed!**
 
 | Command | Definition |
 | ------- | ---------- | 
+| fw | Grep string |
+| s | Live grep |
 | ff | Find files |
-| gf | Find git files |
+| fg | Find git files |
 | gc | Display git commits |
 | b | Display buffer |
 | r | Display LSP references |
