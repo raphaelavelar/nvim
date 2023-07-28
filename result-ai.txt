@@ -1,0 +1,424 @@
+Week 0
+Welcome to the AI course
+Course syllabus
+11.001 Case study intro
+11.002 Game player case study overview
+11.003 Week 1 slides
+11.101 Week intro
+11.102 Overview: playing games with AI
+11.103 Why play games with AI quiz
+11.104 Some AI game player milestones
+11.105 Milestones quiz
+11.106 AI game playing references
+11.007 Discussion of game players
+11.201 How might we build a game playing AI?
+11.202 How to make a game playing AI quiz
+11.203: Experiment with some games
+11.204 Share your game playing experiences
+11.205 Weekly recap
+
+
+
+Week 1
+12.101	Introduction to week 2
+12.102 Slides for week 2
+12.103 Formalising the problem
+12.104 Formalising the problem quiz
+12.105 Value functions and DQN	
+12.106 Value functions and DQN quiz
+12.107 What are the names of the classic q-learning techniques?
+12.107a Share your findings about value estimation
+12.108 DQN agent architecture
+12.109 DQN agent architecture quiz
+12.110 The loss function for DQN
+12.111 The loss function for DQN quiz
+12.112 Visual processing and states in DQN
+12.113 Visual processing
+12.114 Explain the loss function
+12.115 Weekly outro
+
+
+
+Week 2
+13.101	Welcome to this week
+13.102	Slides for this week
+13.103 What is openai gym?
+13.104 OpenAI gym quiz
+13.105 Setup openai gym and create some agents
+13.108 Share a video of your game player
+13.201 Introduction to keras and neural networks
+13.202 keras quiz
+13.203 Convolutional layers
+13.204 Convolution quiz
+13.205 Lab exercise: controlling agents with neural networks
+13.206 Weekly outro
+
+
+
+Week 3
+14.101	Weekly introduction
+14.102 Weekly reading
+14.103	Overview of the DQN runtime
+14.104 DQN runtime quiz
+14.105 The DQN neural network architecture
+14.106 DQN neural network quiz
+14.107	DQN loss function and training
+14.108 DQN loss function and training quiz
+14.109 Watch DQN playing Breakwall
+14.110 DQN code review quiz
+14.111 Lab activity: train some networks and/ or load in a pre-trained model
+14.112 Game player review
+14.113 Week 4 outro
+
+
+
+Week 4
+15.1	Weekly introduction
+15.101 Weekly readings
+15.102 State of the art game players
+15.103 State of the art game players quiz
+15.104 Ethics of game playing AI
+15.105 Ethics of game playing AI quiz
+15.106 Weekly outro
+15.201 Improve on the three laws
+15.202 Game player case study outro
+
+
+
+Week 5
+1.001	Welcome to the creatures case study
+1.002	Creatures case study overview
+1.003 Readings and slides for this week
+1.101 Week intro
+1.102 Bioinspired computing
+1.103  Bioinspired computing quiz
+1.104 Discuss bio-inspired computing: is it AI?
+1.105 Evolution theory crash course
+1.106 Evolution theory quiz
+1.107 Reading on evolution theory and evolutionary computing
+1.108 Artificial evolution and genetic algorithms
+1.109	Artificial evolution and genetic algorithms quiz
+1.110	Why do genetic algorithms work? Pareto
+1.111	Why do Genetic Algorithms work? quiz
+1.112	Karl Sims creatures
+1.113 Karl Sims and evolving morphology quiz
+1.114 Find some evolved forms
+1.201 Week outro
+
+
+
+Week 6
+2.001	Introduction to week 2
+2.002	References for week 2
+2.101	Key components in the creatures system
+2.102	Key components in the creatures system quiz
+2.103	Introduction to pybullet
+2.104	Try out bullet
+2.105 Creating things in the world
+2.106 Creating things in the world quiz
+2.1065 Set up pybullet and create an object
+2.1061 Set up pybullet for apple silicon users
+2.107	The URDF file format
+2.108	URDF file format quiz
+2.109 Write a URDF file from scratch
+2.110 URDF from scratch quiz
+2.111	Make your own URDF model and render it out in pybullet
+2.107	Share your URDF
+2.201	Moving a URDF robot
+2.202 Moving a URDF robot quiz
+2.203 Moving a preset robot
+2.204 Moving a preset robot quiz
+2.205 Make a moving robot
+2.204 Post your moving robot code
+2.207  Robot race!
+2.206	Week 2 summary
+
+
+
+Week 7
+3.001	Weekly introduction
+3.002	Weekly reading
+3.101 Genetic encoding problem overview
+3.102 Genetically encoding problems quiz
+3.103 Deciding on the parameters and their ranges
+3.104 Deciding parameter ranges quiz 
+3.105 Discuss parameterisation
+Lesson introduction
+3.201 Test driven approach
+3.202 Test-driven approach quiz
+3.203 Generate a genome
+3.204 Genome spec
+3.205 Gene spec quiz
+3.2055 Genome generating code
+3.206 Converting from flat genes to a graph: algorithm
+3.207 Gene to graph algorithm quiz
+3.2075 Activity: expand some flat graphs
+3.208 Gene to graph - implementation
+3.209 Gene to graph - implementation quiz
+3.210 Code the Graph expansion 
+Lesson introduction: genome to XML
+3.211 Interpret the genome spec
+3.212 Interpret genome spec quiz
+3.213 Creature class
+3.214 Creature class quiz
+3.215 toXML
+3.216 toXML quiz
+3.217 generating XML from a genome
+Lesson introduction: geometry fix and motors
+3.218 Fixing positions of children
+3.219 Fixing positions of children quiz
+3.220 Adding motors
+3.221 Adding motors quiz
+3.2215 motor test script
+3.222 The full decoding process
+3.2225: End of week code
+3.223 Weekly summary
+
+
+
+Week 8
+4.001 Weekly introduction
+4.002 Weekly readings
+Lesson introduction: fitness and simulation
+4.101 Evaluating creatures: the plan
+4.102 The plan: quiz
+4.103 Generating a random population
+4.104	Quiz on random population
+4.105 Running creatures in simulation
+4.106 Running creatures in simulation quiz
+4.107 Implement the fitness function
+4.108 Fitness function quiz
+4.109 Multi-process evaluation
+4.110 Multi-process quiz
+4.111 Code the simulation and fitness function
+4.112 Code from end of 4.111
+4.201	Planning selection and breeding
+4.202	Planning selection and breeding quiz
+4.203	Roulette wheel selection
+4.204	Roulette wheel quiz
+4.205	Crossover
+4.206	Crossover quiz
+4.207	Evolution!
+4.209	Tweak the GA
+4.21	Tweak the GA quiz
+4.211	Saving and viewing fittest
+4.212	Saving and viewing fittest quiz
+4.213	Demo some fit individuals
+4.214	Implement the GA
+4.215 GA solution code
+4.216 Reflecting on the GA
+4.217	Share your fittest CSVs
+4.302 Weekly outro
+
+
+
+Week 9
+5.001 Weekly introduction
+5.002 Weekly readings
+5.101	Going beyond Sims
+5.102	Read the evolving soft robots paper
+5.103	Evolving soft robots quiz
+5.104 State of the art for GAs
+5.105	Read the evolving ANNs paper
+5.106	Evolving ANNs quiz
+5.107	Morphology papers
+5.108 Ethics of evolving solutions
+5.111 Weekly outro
+5.201 Automatic design outro
+Midterm coursework latest instructions
+Mid-term coursework
+
+
+
+Week 10
+16.001 Introduction to AI and creativity case study
+16.101 Weekly Introduction
+16.102 Creativity Week 1 slides
+16.103 Introduction to generative systems
+16.104 Generative systems quiz
+16.105 Worked example of a generative system
+16.106 Example of a generative system quiz
+16.107 Coding up a Markovian text generator and training it
+16.108 Coding up a Markovian text generator and training it quiz
+16.109 Code up a Markov model, challenge: higher order
+16.110 Share some interesting outputs - why is it interesting? 
+16.111 Weekly recap
+
+
+
+Week 11
+17.101 Weekly Introduction
+17.102 Weekly references
+17.103 What is a transformer?
+17.104 What is a transformer? Quiz
+17.105 GPT-2
+17.106  GPT-2 quiz
+17.107 Fine tuning GPT-2
+17.108 Fine tuning GPT-2 quiz
+17.109 Working with GPT-2
+17.110 What kind of music do you like?
+17.111 Week 2 outro
+
+
+
+Week 12
+18.101 Weekly introduction
+18.102 Week 3 Music VA reading
+18.103 Potted history of automated music composition
+18.104 Automated music composition quiz
+18.105 Introduction to latent spaces
+18.106 Latent spaces quiz
+18.107 What is Music-VAE?
+18.108 Music-VAE quiz
+18.109 Javascript and promises
+18.110 JS promises quiz
+18.111 Working with MusicVAE
+18.112 Working with MusicVAE quiz
+18.113 Rendering audio with MusicVAE and fluidsynth
+18.114 Rendering audio quiz
+18.115 Exploring latent space
+18.116 Exploring latent space quiz
+ 18.117 Work with music VAE and fluidsynth
+18.118 Share some musical results
+18.119 Week 3 outro
+
+
+
+Week 13
+19.101 Weekly introduction
+19.102 Weekly reading
+19.103 Speech and vocal synthesis
+19.104 Speech and vocal synthesis quiz
+19.105 Background for diffsinger
+19.106 Background for diffsinger quiz
+19.107 Diffsinger models
+19.108 Diffsinger models quiz
+19.109 Working with diffsinger
+19.110 Working with diffsinger quiz
+19.111 Experiment with diffsinger
+19.112 Share your singing results
+19.113 Week 4 outro
+
+
+
+Week 14
+20.101 Weekly introduction
+20.102 Weekly reading
+20.103 Putting the system together: extracting notes
+20.104 Putting the system together: extracting notes quiz
+20.105 Mixing the singing with the backing
+20.106 Mixing the singing with the backing quiz
+20.107 Putting it together
+20.108 Share your results
+20.109 Discussion of creativity
+20.110 Discussion of creativity quiz
+20.111 Discuss creativity
+20.112 Weekly outro
+20.113 AI creativity case study outro
+
+
+
+Week 15
+6.00 Weekly introduction 
+6.002 Essential readings
+6.003 Automated science
+6.101 Discovery science and the Robot Scientist system
+6.102 Discovery Science
+6.103 The concept of Robot Scientist
+6.104 The concept of Robot Scientist
+6.105 Robot scientists
+6.201 History of Robot Scientists and future trends
+6.202 History of Robot Scientists
+6.203 Reading articles 
+6.301 Legal and ethical issues in robotics and lab automation
+6.302 Ethical issues in Robotics 
+6.303 Reading articles
+6.304 Weekly outro
+
+
+
+Week 16
+7.001 Weekly introduction
+7.101 Introduction to rational agents
+7.102 Rational agents 
+7.103 Further reading
+7.104 Introduction to multi-agent environments
+7.105 Multi-agent environments
+7.106 Further reading
+7.107 Overview of the toy system: components and their interactions
+7.108 Overview of the toy system
+7.109 The agent-based systems
+7.110 The toy robot virtual environment
+7.201 Crash course in knowledge representation
+7.202 Knowledge representation
+7.203 Toy KB 
+7.204 Constructing the toy knowledge model
+7.205 Constructing the toy knowledge model in Python 
+7.206 Constructing real knowledge model 
+7.207 Exercise: modify the toy KB
+7.208 Weekly outro
+
+
+
+Week 17
+8.001 Weekly introduction
+8.002 Limits of reasoning
+8.101 Crash course in logic
+8.102 Logic
+8.103 Crash course in reasoning
+8.104 Reasoning
+8.105 Hypotheses generation: abduction 
+8.106 Abduction
+8.107 Hypotheses generation: induction
+8.108 Induction
+8.109 Reading articles
+8.201 Hypotheses generation agent
+8.202 Exercise: modify the toy robot hypotheses generation
+8.203 Weekly outro
+
+
+
+Week 18
+9.001 Weekly introduction
+9.101 Crash course in planning and scheduling
+9.102 Planning and scheduling
+9.103 Planning and scheduling experiments by the Robot Scientists
+9.104 Planning and scheduling, the toy robot
+9.105 Planning and scheduling
+9.201 Walkthrough the toy planning agent
+9.202 Exercise: Modify the planning agent
+9.301Analysing experimental results by the Robot Scientists
+9.302 Analysing experimental results
+9.303 Analysing experimental results
+9.304 Exercise: Modify the toy analysis agent
+9.305 Drug discovery 
+9.306 Weekly outro
+
+
+
+Week 19
+10.001 Weekly introduction
+10.101 Meta-analysis agent
+10.102 Meta-analysis
+10.103 Communication agent
+10.104 Communication agent 
+10.105 Reading articles
+10.201 Robot Scientist: new projects
+10.202 New projects 
+10.203 Weekly outro
+
+
+
+Week 20
+Exam preparation
+Mock exam
+Complete (draft) reading list 
+
+
+
+Week 21
+Online exam
+EvaSys
+
+
+

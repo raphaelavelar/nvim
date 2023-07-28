@@ -1,0 +1,419 @@
+Week 0
+Introduction to the course
+Introduction to the Course
+Course syllabus
+How you will be assessed
+Starting your studies
+Introduce yourself
+ What do I want you to be able to achieve at the end of the course?
+What do you want to achieve at the end of the course? 
+ What is design?
+What is Design?
+What is good design?
+Interaction Design and Usability
+What is Interaction Design?
+What is Interaction Design?
+What things can we design interactions with?
+What things can we design interactions with?
+A sign of bad design – design not signs exercise
+ Signs that your house should have
+ What happens without an interaction designer
+What happens without an interaction designer
+Goals, Scenarios and Stories
+Goals, Scenarios and Stories
+5 Dimensions of Interaction Design
+5 dimensions of Interaction Design
+Where did interaction design come from?
+Where did Interaction Design come from?
+Finding something hard to represent on desktop from real world, and possible solution
+ VR text entry 
+Reinventing common interaction
+ OPTIONAL - The mother of all demos - mouse
+OPTIONAL - Dr Sarah Wiseman interview about telephone design
+An aim of interaction design
+ What about user experience?
+What about user experience?
+ User experience – answerphone case study
+
+
+
+Week 1
+Uncomfortable interactions
+Uncomfortable interactions
+Uncomfortable Interactions
+Thinking exercise
+Preventative interaction design
+ Design does not begin with design
+Design does not begin with design
+The Double Diamond
+The Double Diamond
+Doing research
+"Don't design a product, design an intervention"
+Introduction to Jobs To Be Done
+Which are jobs, which are not?
+When Interactions go wrong...
+
+
+
+Week 2
+ What is a model?
+What is a model?
+Debrief on models in your life.
+Models in everyday life
+Models in your life
+Conceptual models
+Optional Activity: a game of mastermind
+Iterative Design models
+Iterative Design models
+Here's the first iteration. What would you do next?
+The design process
+Modelling a computer and a human
+Let's model something else interactive
+Let's model something else interactive
+Perceptual, cognitive and motoric aspects of transcription typing
+ Introduction to Fitts's Law
+Introduction to Fitts's Law
+ Numberphile video
+A Fitts's Law task
+Making our own laws!
+
+
+
+Week 3
+GOMS
+GOMS
+Introduction to GOMS-KLM
+Introduction to GOMS-KLM
+Introduction to GOMS-KLM
+Applying GOMS
+Passkey typing
+ Apply GOMS to an everyday task
+ Normans Action Cycle
+Norman's Action Cycle
+ Gulfs of execution and evaluation
+Gulfs of Execution and Evaluation
+Finding gulfs in everyday life
+Gulfs in games
+Gulfs in Games
+How can we use these models?
+Introduction to mental models
+Introduction to Mental Models
+7 Stages of Action
+7 Stages of Action
+ What intervention is needed?
+Mental models
+ Mapping models
+What have you learnt this week?
+
+
+
+Week 4
+ What we don't know about the user
+What we don't know about the user
+ What we don't know about the task
+What we don't know about the task
+ What we don't know about the environment and other systems
+What we don't know about the environment and other systems
+ Types of data
+Types of data
+ What data is this?
+ What is an interview? What does it comprise?
+What is an interview?
+ Running an interview
+Running an Interview
+ What is a focus group?
+What is a focus group?
+Interview and focus groups
+Activity: Conduct a remote interview 
+ What is a questionnaire
+What is a questionnaire?
+ When and when not to use a questionnaire
+When, and when not, to use a questionnaire.
+ Design the worst questionnaire
+Designing a questionnaire
+
+
+
+Week 5
+ The problems with formal data collection
+The problems with formal data collection
+ What do we mean by observations?
+What do we mean by observations?
+Ethnography in action
+A diary study
+ Desire Paths
+Desire Paths
+Log data + reviews
+Log data and reviews
+More on ethnography and data
+Practicing research
+
+
+
+Week 6
+ Some design rules and tools we can use
+Some design rules and tools we can use
+Schneiderman's Golden Rules
+ Schneiderman's Golden Rules
+ Design Standards
+Design Standards
+ Design guidance for your country
+ Nielsen's Law video
+Nielsen's law
+ A pattern in the wild
+Reflective activity on social media design patterns
+ How do we design information?
+How do we design information?
+ Design of the worst self-checkout
+ The different structures
+The different structures
+Understanding information architecture
+
+
+
+Week 7
+ Introduction to card sorting
+Introduction to Card Sorting
+Activity: A card sorting exercise 
+ Collating all of your data
+Collating all your data
+ The purpose of requirements
+The purpose of requirements
+ Recording requirements
+Recording Requirements
+ Activity: Generating requirements 
+Requirements elicitation
+ Remember the user
+Remember the User
+ What is a persona and why do we use them?
+What is a persona and why do we use them?
+ Bringing personas to life via scenarios
+Bringing Personas to Life via Scenarios
+Activity: Improving personas and scenarios
+
+
+
+Week 8
+ Introduction to Prototyping
+Introduction to Prototyping
+ When have you used a prototype?
+When have you used a prototype?
+Making a prototype
+ What is a prototype?
+What is a prototype?
+Prototype reading
+ Introduction to fidelity in prototypes
+Introduction to fidelity in prototypes
+ Moving through fidelity
+ Moving through fidelity
+Prototyping Experiences
+Prototyping experiences
+ Prototyping a queueing experience for a roller coaster
+
+
+
+Week 9
+ Paper prototyping
+Paper Prototyping
+A tool for digital wireframing 
+ Making a prototype of a website
+ What have you learned?
+Mid-term coursework
+
+
+
+Week 10
+What is accessibility?
+What is accessibility?
+What terminology is important?
+What terminology is important?
+Disability Language Style Guide
+Temporal accessibility needs
+Temporal Accessibility
+When do your access needs change? What do you benefit from?
+Accessibility and inclusivity
+The cynical reason to design accessibly
+Cynical Design for Accessibility
+An introduction to WCAG
+WCAG guidelines
+Inclusivity for everybody
+What is inclusive design?
+What is inclusive design?
+What is assistive technology?
+What is assistive technology?
+Screen reader
+
+
+
+Week 11
+Reviewing a website
+Reviewing a website
+An exploration of visual accessibility
+Visual accessibility
+Research activity - find an example!
+Find an extension
+A case for accessibility
+Making emoji accessible
+Xbox gaming project
+iGym paper
+Optional: Third age suit
+A computer versus a human
+Automated tools
+Automated tools
+Designing for different markets
+Share a local news site
+Cultural accessibility. Hofstede and criticism.
+How has culture already impacted? WEIRD designs
+What have you learnt?
+
+
+
+Week 12
+Introduction to Human Error
+Introduction to Human Error
+Finding examples of Human Error
+Find an example of human error in the news near you
+Why is human error important?
+Why is human error important?
+Group therapy - share an example of tech that can result in error
+What is an error?
+What is an error?
+Human Error
+Optional: How is this a slip? How is this a mistake?
+Categorising slips (part A)
+Categorising Slips (part A)
+Categorising slips (part B)
+Categorising Slips (Part B)
+Error Diary
+Share examples
+Norman slips
+
+
+
+Week 13
+Intro to specific error types
+Introduction to specific error types
+What is a post completion error?
+What is a post-completion error?
+Identify examples of post completion steps in your life
+The simplest fix to a post completion error
+The simplest fix to a post-completion error
+Using cues
+Using cues
+Preventing postcompletion errors
+Exploring lockouts
+Exploring lockouts
+Handling errors gracefully
+
+
+
+Week 14
+What is an experiment?
+What is an experiment?
+What experiments do you conduct in your every day life?
+Making hypotheses
+Making hypotheses
+Choosing variables
+Choosing variables
+Choosing the participants
+Choosing the participants
+Who would you choose?
+Experiment design
+Experiment Design
+Materials and Procedure
+Reflecting on an experiment
+Types of variables you can record
+Types of variable you can record
+Set up for an experiment
+
+
+
+Week 15
+Quantitative and Qualitative Data
+Quantitative and Qualitative Data
+Descriptive statistics
+Descriptive statistics
+Types of data
+Types of data
+Inferential stats
+Inferential stats
+An introduction to statistics
+Share examples of bad data visualisations
+Best practice for building and maintaining a research participant DB
+How can you use your results?
+
+
+
+Week 16
+When and why do we evaluate?
+When and why do we evaluate?
+What do we want to know?
+What do we want to know?
+The types of evaluation
+Types of evaluation
+Evaluation and how it is changing
+Intro to A/B testing
+Intro to A/B testing
+Why A/B testing is not the same as a controlled experiment
+A/B testing case study
+Google guidelines for A/B testing
+What would you want to know from analytics in this problem?
+What is a think aloud?
+What is a think aloud?
+Think aloud
+Think aloud reading
+
+
+
+Week 17
+What is a cognitive walkthrough?
+What is a cognitive walkthrough?
+Designing a cognitive walkthrough
+Designing a cognitive walkthrough
+Your turn!
+What is a heuristic evaluation?
+What is a heuristic evaluation?
+How to run a heuristic evaluation
+How to run a heuristic evaluation
+Define some heuristics
+Heuristics for purpose
+
+
+
+Week 18
+What is affective computing?
+What is affective computing?
+Emotional technology
+Investigation
+Detecting user emotion
+Contextualising emotion
+What colour would you use to express confusion?
+Detecting affect
+Expressing emotion
+A case for affective computing
+Consider this
+
+
+
+Week 19
+What is social computing?
+Computer mediated communication
+Reflecting on the past and changes
+Repurposing emoji paper
+Social media and interaction design
+What are our responsibilities?
+Affective computing in distance learning
+The possibilities of crowd sourcing
+Go and do some citizen science
+Crowdsourcing in action
+Design a crowd sourced study
+What do you think are the major exciting innovations in interaction design?
+
+
+
+Week 20
+Exam [002] - To be completed on UoL Moodle
+
+
+
+Week 21
