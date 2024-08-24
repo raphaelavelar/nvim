@@ -1,5 +1,13 @@
 # nvim
 
+## Installation and setup
+### Installing neovim
+In the scripts folder, execute the download script specifying the OS.
+```
+bash scripts/download-nvim.sh --linux
+bash scripts/download-nvim.sh --windows
+```
+
 ## Key mapping
 ### CMP
 | Command | Definition |
