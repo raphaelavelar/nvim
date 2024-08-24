@@ -3,10 +3,33 @@
 ## Installation and setup
 ### Installing neovim
 In the scripts folder, execute the download script specifying the OS.
-```
+```bash
 bash scripts/download-nvim.sh --linux
 bash scripts/download-nvim.sh --windows
 ```
+
+### Configuring neovim
+1. Download packer
+
+```bash
+bash scripts/download-packer.sh --linux
+bash scripts/download-packer.sh --windows
+```
+
+2. Move this repository to neovim's configuration path
+```bash
+# In linux
+mv -r nvim ~/.config
+# In windows
+mv -r nvim "$env:LOCALAPPDATA\nvim"
+```
+
+3. Running neovim, source packer.lua and install the plugins
+```
+nvim ~/.config/nvim/lua/rpl/packer.lua
+:so
+:PackerInstall
+````
 
 ## Key mapping
 ### CMP
